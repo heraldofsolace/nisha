@@ -1,0 +1,15 @@
+[submodule "nisha-fish"]
+	path = nisha-fish
+	url = https://github.com/heraldofsolace/nisha-fish
+[submodule "nisha-tmux"]
+	path = nisha-tmux
+	url = https://github.com/heraldofsolace/nisha-tmux
+[submodule "nisha-vim"]
+	path = nisha-vim
+	url = https://github.com/heraldofsolace/nisha-vim
+[submodule "nisha-konsole"]
+	path = nisha-konsole
+	url = https://github.com/heraldofsolace/nisha-konsole
+[submodule "nisha-vscode"]
+	path = nisha-vscode
+	url = https://github.com/heraldofsolace/nisha-vscode
